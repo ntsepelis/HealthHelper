@@ -1,4 +1,4 @@
-<img src="HealtHelper.jpg" alt="HealthHelper" width="200" height="200">
+<img src="HealthHelper.jpg" alt="HealthHelper" width="200" height="200">
 
 # Εισαγωγή
 
